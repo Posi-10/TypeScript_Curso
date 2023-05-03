@@ -6,6 +6,7 @@
   - [Indice](#indice)
   - [Sección 2 Introducción a TypeScript](#sección-2-introducción-a-typescript)
   - [Sección 3 Tipos Básicos](#sección-3-tipos-básicos)
+  - [Sección 4 Funciones y objetos](#sección-4-funciones-y-objetos)
 
 ## Sección 2 Introducción a TypeScript
 
@@ -31,4 +32,18 @@
 > > - Retorno void
 > > - Null
 > > - Undefined
+
+## Sección 4 Funciones y objetos
+
+> Toda la Sección 3 este en su misma carpeta [seccion_4](./seccion_04/), y se vera:
+>
+> > - Declaraciones básicas de funciones
+> > - Parámetros obligatorios
+> > - Parámetros opcionales
+> > - Parámetros por defecto
+> > - Parámetros REST
+> > - Tipo de datos "Function"
 > 
+
+
+
