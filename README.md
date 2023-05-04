@@ -8,6 +8,7 @@
   - [Sección 3 Tipos Básicos](#sección-3-tipos-básicos)
   - [Sección 4 Funciones y objetos](#sección-4-funciones-y-objetos)
   - [Sección 5 Objetos y tipos personalizados](#sección-5-objetos-y-tipos-personalizados)
+  - [Sección 6 Depuración de Errores y el archivo tsconfig.json](#sección-6-depuración-de-errores-y-el-archivo-tsconfigjson)
 
 ## Sección 2 Introducción a TypeScript
 
@@ -58,3 +59,15 @@
 > > - Comprobar el tipo de un objeto.
 > 
 
+## Sección 6 Depuración de Errores y el archivo tsconfig.json
+
+> Toda la Sección 6 este en su misma carpeta [seccion_6](./seccion_06/), y se vera:
+>
+> > - Aprenderemos el ¿por qué siempre compila a JavaScript?
+> > - Para que nos puede servir el archivo de configuración de TypeScript
+> > - Realizaremos depuración de errores directamente a nuestros archivos de TypeScript
+> > - Removeremos todos los comentarios en nuestro archivo de producción.
+> > - Restringiremos al compilador que sólo vea ciertos archivos o carpetas
+> > - Crearemos un archivo final de salida
+> > - Aprenderemos a cambiar la version de JavaScript de salida
+> 
