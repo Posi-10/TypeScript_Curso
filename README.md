@@ -9,6 +9,7 @@
   - [Sección 4 Funciones y objetos](#sección-4-funciones-y-objetos)
   - [Sección 5 Objetos y tipos personalizados](#sección-5-objetos-y-tipos-personalizados)
   - [Sección 6 Depuración de Errores y el archivo tsconfig.json](#sección-6-depuración-de-errores-y-el-archivo-tsconfigjson)
+  - [Sección 7 Caracteristicas de ES6 o JavaScript2015](#sección-7-caracteristicas-de-es6-o-javascript2015)
 
 ## Sección 2 Introducción a TypeScript
 
@@ -70,4 +71,20 @@
 > > - Restringiremos al compilador que sólo vea ciertos archivos o carpetas
 > > - Crearemos un archivo final de salida
 > > - Aprenderemos a cambiar la version de JavaScript de salida
+>
+
+
+## Sección 7 Caracteristicas de ES6 o JavaScript2015
+
+> Toda la Sección 7 este en su misma carpeta [seccion_7](./seccion_07/), y se vera:
+>
+> > - Diferencia entre declarar variables con VAR y con LET
+> > - Uso de constantes
+> > - Plantillas literales
+> > - Funciones de flecha
+> > - Destructuración de objetos
+> > - Destructuración de Arreglos
+> > - Nuevo ciclo, el FOR OF
+> > - Conocer sobre la programación orientada a objetos
+> > - Clases
 > 
