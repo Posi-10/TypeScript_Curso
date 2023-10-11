@@ -17,7 +17,6 @@
 >
 > > - [TypeScrip](./seccion_02/TypeScrip.md#typescrip)
 > > - [Hola mundo en TypeScrip](./seccion_02/01_hola.mundo)
->
 
 ## Sección 3 Tipos Básicos
 
@@ -46,7 +45,6 @@
 > > - Parámetros por defecto
 > > - Parámetros REST
 > > - Tipo de datos "Function"
-> 
 
 ## Sección 5 Objetos y tipos personalizados
 
@@ -58,11 +56,10 @@
 > > - Tipos personalizados
 > > - Crear variables que soporten varios tipos a la vez.
 > > - Comprobar el tipo de un objeto.
-> 
 
 ## Sección 6 Depuración de Errores y el archivo tsconfig.json
 
-> Toda la Sección 6 este en su misma carpeta [seccion_6](./seccion_06/), y se vera:
+> Toda la Sección 6 este en su misma carpeta [seccion_6](./seccion_06/README.md), y se vera:
 >
 > > - Aprenderemos el ¿por qué siempre compila a JavaScript?
 > > - Para que nos puede servir el archivo de configuración de TypeScript
@@ -71,8 +68,6 @@
 > > - Restringiremos al compilador que sólo vea ciertos archivos o carpetas
 > > - Crearemos un archivo final de salida
 > > - Aprenderemos a cambiar la version de JavaScript de salida
->
-
 
 ## Sección 7 Caracteristicas de ES6 o JavaScript2015
 
@@ -87,4 +82,25 @@
 > > - Nuevo ciclo, el FOR OF
 > > - Conocer sobre la programación orientada a objetos
 > > - Clases
-> 
+
+## Sección 8 Clases en TypeScript
+
+> Toda la Sección 8 este en su misma carpeta [seccion_8](./seccion_08/), y se vera:
+>
+> > - Crear clases en TypeScript
+> > - Constructores
+> > - Accesibilidad de las propiedades:
+> >   > - Públicas
+> >   > - Privadas
+> >   > - Protegidas
+> > - Métodos de las clases que pueden ser:
+> >   > - Públicos
+> >   > - Privados
+> >   > - Protegidos
+> > - Herencia
+> > - Llamar funciones del padre, desde los hijos
+> > - Getters
+> > - Setters
+> > - Métodos y propiedades estáticas
+> > - Clases abstractas
+> > - Constructores privados.
