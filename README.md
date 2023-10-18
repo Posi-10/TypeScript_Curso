@@ -10,6 +10,8 @@
   - [Sección 5 Objetos y tipos personalizados](#sección-5-objetos-y-tipos-personalizados)
   - [Sección 6 Depuración de Errores y el archivo tsconfig.json](#sección-6-depuración-de-errores-y-el-archivo-tsconfigjson)
   - [Sección 7 Caracteristicas de ES6 o JavaScript2015](#sección-7-caracteristicas-de-es6-o-javascript2015)
+  - [Sección 8 Clases en TypeScript](#sección-8-clases-en-typescript)
+  - [Sección 9 Interfaces](#sección-9-interfaces)
 
 ## Sección 2 Introducción a TypeScript
 
@@ -104,3 +106,13 @@
 > > - Métodos y propiedades estáticas
 > > - Clases abstractas
 > > - Constructores privados.
+
+## Sección 9 Interfaces
+
+> Toda la Sección 9 este en su misma carpeta [seccion_9](./seccion_09/), y se vera:
+>
+> > - ¿Por qué es necesario una interfaz?
+> > - ¿Cómo creamos una interfaz básica?
+> > - Crear propiedades opcionales
+> > - Crear métodos
+> > - Asignar interfaces a las clases
