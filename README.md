@@ -13,6 +13,7 @@
   - [Sección 8 Clases en TypeScript](#sección-8-clases-en-typescript)
   - [Sección 9 Interfaces](#sección-9-interfaces)
   - [Sección 10 Interfaces](#sección-10-interfaces)
+  - [Sección 11 Interfaces](#sección-11-interfaces)
 
 ## Sección 2 Introducción a TypeScript
 
@@ -127,3 +128,19 @@
 > > - Multiples namespaces en un mismo proyecto
 > > - Importar namespaces
 > > - Problemática que se puede presentar utilizando un namespace.
+
+
+## Sección 11 Interfaces
+
+> Toda la Sección 11 este en su misma carpeta [seccion_11](./seccion_11/), y se vera:
+>
+> > - Uso de los genéricos
+> > - Funciones genéricas
+> > - Ejemplos prácticos sobre los genéricos
+> > - Arreglos genéricos
+> > - Clases genéricas
+>
+
+
+
+
