@@ -12,6 +12,7 @@
   - [Sección 7 Caracteristicas de ES6 o JavaScript2015](#sección-7-caracteristicas-de-es6-o-javascript2015)
   - [Sección 8 Clases en TypeScript](#sección-8-clases-en-typescript)
   - [Sección 9 Interfaces](#sección-9-interfaces)
+  - [Sección 10 Interfaces](#sección-10-interfaces)
 
 ## Sección 2 Introducción a TypeScript
 
@@ -92,13 +93,13 @@
 > > - Crear clases en TypeScript
 > > - Constructores
 > > - Accesibilidad de las propiedades:
-> >   > - Públicas
-> >   > - Privadas
-> >   > - Protegidas
+> > > - Públicas
+> > > - Privadas
+> > > - Protegidas
 > > - Métodos de las clases que pueden ser:
-> >   > - Públicos
-> >   > - Privados
-> >   > - Protegidos
+> > > - Públicos
+> > > - Privados
+> > > - Protegidos
 > > - Herencia
 > > - Llamar funciones del padre, desde los hijos
 > > - Getters
@@ -116,3 +117,13 @@
 > > - Crear propiedades opcionales
 > > - Crear métodos
 > > - Asignar interfaces a las clases
+
+## Sección 10 Interfaces
+
+> Toda la Sección 10 este en su misma carpeta [seccion_10](./seccion_10/) y [seccion_10.1](./seccion_10.1/), y se vera:
+>
+> > - Explicación del ¿por qué son necesarios los namespaces?
+> > - Crear namespaces
+> > - Multiples namespaces en un mismo proyecto
+> > - Importar namespaces
+> > - Problemática que se puede presentar utilizando un namespace.
