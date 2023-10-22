@@ -15,6 +15,7 @@
   - [Sección 10 NameSpaces](#sección-10-namespaces)
   - [Sección 11 Genéricos - Generics](#sección-11-genéricos---generics)
   - [Sección 12 Decoradores](#sección-12-decoradores)
+  - [Sección 13 Usando librerías que no están escritas en TypeScript (Como jQuery)](#sección-13-usando-librerías-que-no-están-escritas-en-typescript-como-jquery)
 
 ## Sección 2 Introducción a TypeScript
 
@@ -145,7 +146,7 @@
 
 ## Sección 12 Decoradores
 
-> Toda la Sección 11 este en su misma carpeta [seccion_12](./seccion_12/), y se vera:
+> Toda la Sección 12 este en su misma carpeta [seccion_12](./seccion_12/), y se vera:
 >
 > > - ¿Qué son los decoradores?
 > > - ¿Para qué sirven?
@@ -157,6 +158,10 @@
 > > - Decoradores de propiedades
 > > - Decoradores de parámetros
 
+## Sección 13 Usando librerías que no están escritas en TypeScript (Como jQuery)
 
-
-
+> Toda la Sección 13 este en su misma carpeta [seccion_13](./seccion_13/), y se vera:
+>
+> > - Configuración de un proyecto utilizando el package.json y realizar instalaciones con node.
+> > - Utilizar archivos de definiciones "*.d.ts" o Typings
+> > - Agregar definiciones de archivos mediante node
