@@ -12,8 +12,9 @@
   - [Sección 7 Caracteristicas de ES6 o JavaScript2015](#sección-7-caracteristicas-de-es6-o-javascript2015)
   - [Sección 8 Clases en TypeScript](#sección-8-clases-en-typescript)
   - [Sección 9 Interfaces](#sección-9-interfaces)
-  - [Sección 10 Interfaces](#sección-10-interfaces)
-  - [Sección 11 Interfaces](#sección-11-interfaces)
+  - [Sección 10 NameSpaces](#sección-10-namespaces)
+  - [Sección 11 Genéricos - Generics](#sección-11-genéricos---generics)
+  - [Sección 12 Decoradores](#sección-12-decoradores)
 
 ## Sección 2 Introducción a TypeScript
 
@@ -119,7 +120,7 @@
 > > - Crear métodos
 > > - Asignar interfaces a las clases
 
-## Sección 10 Interfaces
+## Sección 10 NameSpaces
 
 > Toda la Sección 10 este en su misma carpeta [seccion_10](./seccion_10/) y [seccion_10.1](./seccion_10.1/), y se vera:
 >
@@ -130,7 +131,7 @@
 > > - Problemática que se puede presentar utilizando un namespace.
 
 
-## Sección 11 Interfaces
+## Sección 11 Genéricos - Generics
 
 > Toda la Sección 11 este en su misma carpeta [seccion_11](./seccion_11/), y se vera:
 >
@@ -139,7 +140,22 @@
 > > - Ejemplos prácticos sobre los genéricos
 > > - Arreglos genéricos
 > > - Clases genéricas
+> > Los recursos compartidos en la sección 11 son:
+> > > - [quicktype](https://quicktype.io/)
+
+## Sección 12 Decoradores
+
+> Toda la Sección 11 este en su misma carpeta [seccion_12](./seccion_12/), y se vera:
 >
+> > - ¿Qué son los decoradores?
+> > - ¿Para qué sirven?
+> > - Decoradores de clases
+> > - Decoradores de fabrica
+> > - Ejemplos prácticos
+> > - Decoradores anidados
+> > - Decoradores de métodos
+> > - Decoradores de propiedades
+> > - Decoradores de parámetros
 
 
 
